@@ -1,1 +1,1 @@
-# ci_cd_test
+# hexlet-my-first-workflow
